@@ -31,11 +31,11 @@ To get a local copy, follow these steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/JTan242/NumberGuesserApp.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd number-guessing-game
+   cd NumberGuesserApp
    ```
 3. Install the dependencies:
    ```sh
