@@ -1,8 +1,7 @@
 ### Number Guessing Game App
 
 #### Overview
-A fun and interactive mobile app built with React Native, where users input a number between 1 and 99, and the app tries to guess it. Users provide feedback on whether the guess is higher or lower until the app guesses correctly. The game concludes with a display of the total number of guesses and a log of all attempts.
-
+An interactive mobile app built with React Native, where users input a number between 1 and 99, and the app tries to guess it. Users provide feedback on whether the guess is higher or lower until the app guesses correctly. The game displays a log of all attempts and concludes with the total number of guesses until the inputted number was reached.
 <div align="center">
   <img src="https://github.com/JTan242/NumberGuesserApp/assets/132401824/20043209-c505-4ccd-a306-3c79658534e8" alt="RPReplay_Final1720483887-ezgif com-video-to-gif-converter">
 </div>
